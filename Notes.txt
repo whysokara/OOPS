@@ -18,3 +18,11 @@ Topics in OOPS:
 Class:
 Class is a blueprint
 Object is an instance of the class
+
+Types of class:
+built-in
+user defined
+
+Constructor:
+- Special function
+- self call (the moment you create an object of the class)
