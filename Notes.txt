@@ -34,3 +34,6 @@ Identification = __<name>__
 
 -- All the configuration related code we write inside Constructor, any piece of code you don't want give control to the user
 -- Self is nothing but the current object
+
+Fraction Class =======
+__str__ => tells how output should look like (__str__ magic method)
