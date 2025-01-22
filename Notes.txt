@@ -37,3 +37,5 @@ Identification = __<name>__
 
 Fraction Class =======
 __str__ => tells how output should look like (__str__ magic method)
+
+-- __add__ = auto executes, if it finds any + operator in code
