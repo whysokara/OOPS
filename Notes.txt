@@ -51,3 +51,9 @@ Instance variable = is a special variable that will have differernt value for di
 private variable =====
 adding __ infront of a variable makes it a private variable
 after making a variable as private, now in memory this is stored as _<classname>__<variablename>
+
+Static Variable ======
+Static variable remains same for all objects, same not equal
+
+static variable is of class
+instance variable is of object
