@@ -57,3 +57,6 @@ Static variable remains same for all objects, same not equal
 
 static variable is of class
 instance variable is of object
+
+Aggregation ======
+You can access private attributes while performing Aggregation
