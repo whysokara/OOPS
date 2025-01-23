@@ -42,3 +42,12 @@ __str__ => tells how output should look like (__str__ magic method)
 
 Reference Variable =======
 holds the memory of the location of the object, and not the actual object
+
+-- Python objects are mutable by default
+
+Encapsulation =======
+Instance variable = is a special variable that will have differernt value for differernt object (depending on object)
+
+private variable =====
+adding __ infront of a variable makes it a private variable
+after making a variable as private, now in memory this is stored as _<classname>__<variablename>
