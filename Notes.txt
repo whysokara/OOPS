@@ -60,3 +60,5 @@ instance variable is of object
 
 Aggregation ======
 You can access private attributes while performing Aggregation
+
+Inheritance ======
