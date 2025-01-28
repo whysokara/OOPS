@@ -62,3 +62,7 @@ Aggregation ======
 You can access private attributes while performing Aggregation
 
 Inheritance ======
+Inherite all the variables and methods from the parent class
+just need to add (<parent class name>) next to child class name
+
+
