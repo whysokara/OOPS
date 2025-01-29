@@ -97,4 +97,15 @@ Method overloading = where I have 2 methods with the same name in same class. in
 Operator overloading
 
 
+Abstraction ========
+hidden/chupa hua   
+
+
+
+
+Abstract class?
+a class that should have atleast one abstrat method
+Abstract Method?
+A methid that has no code inside it, no implementation
+
 
