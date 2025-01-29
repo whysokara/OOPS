@@ -66,3 +66,9 @@ Inherite all the variables and methods from the parent class
 just need to add (<parent class name>) next to child class name
 
 
+if a child doesn't have a constructor of its own, then it will call parents constructor
+but if a child has a constructor of its own, parents constructor will never be called and thus the varuables and methods inside parents class will never get initialised
+A Child can't access private attributes from it's parent class
+if both parent and child has same method, child one will be executed
+
+
