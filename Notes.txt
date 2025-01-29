@@ -72,3 +72,11 @@ A Child can't access private attributes from it's parent class
 if both parent and child has same method, child one will be executed
 
 
+Super =========
+we can access parents variables even when child has its own constructor
+super().__init__(price, brand, camera)
+
+-- super cannot be used outside class, almost all the time super is used inside child class
+super cannpt access variables
+
+
