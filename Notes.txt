@@ -79,4 +79,14 @@ super().__init__(price, brand, camera)
 -- super cannot be used outside class, almost all the time super is used inside child class
 super cannpt access variables
 
+Types of Inheritance ====
+Single
+Multi level
+Hierarchial
+Multiple
+Hybrid
+
+--- incase of ambiguity where both parent class has same method, the first parent we calls method will be implemented (aka method resolution order)
+
+
 
