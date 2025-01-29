@@ -88,5 +88,13 @@ Hybrid
 
 --- incase of ambiguity where both parent class has same method, the first parent we calls method will be implemented (aka method resolution order)
 
+Polymorphism ==========
+when something has multiple faces meaning, when same cheez situation ke according alag alag tarah se behave kare
+
+Concepts:
+method overriding
+Method overloading = where I have 2 methods with the same name in same class. in that case it depends on the input
+Operator overloading
+
 
 
